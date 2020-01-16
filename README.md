@@ -699,6 +699,12 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Telegram](https://t.me/rudart)
 
+### 🇪🇸 Spain
+
+- [Madrid Community](https://flutter.madrid)
+- [Madrid Meetup](https://www.meetup.com/es-ES/Flutter-Madrid)
+- [Madrid Twitter]
+
 ### 🇱🇰 Sri Lanka
 
 - [Gitter](https://gitter.im/Colombo-Flutter-Community)
